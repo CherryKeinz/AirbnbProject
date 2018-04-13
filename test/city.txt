@@ -1,0 +1,69 @@
+Alaska
+Albany(NY)
+Annapolis
+Atlanta(GA)
+Augusta(ME)
+Austin(TX)
+Baton Rouge
+Bismarck
+Boise
+Boston
+Carson City
+Charleston(WV)
+Cheyenne
+Chicago
+Cincinati
+Cleveland(OH)
+Columbia(SC)
+Columbus(OH)
+Concord(NH)
+Dallas
+Denver
+Des Moines
+Detroit
+Dover(DE)
+Frankfort(KY)
+Harrisburg
+Hartford(AL)
+Hawaii
+Helena(MT)
+Houston
+Indianapolis
+Jackson(MS)
+Jefferson City(MO)
+Kansas City(KS)
+Lansing(MI)
+Lincoln(NE)
+Little Rock
+Los Angeles
+Madison(WI)
+Memphis
+Miami(FL)
+Minneapolis
+Montgomery(AL)
+Montpelier(VT)
+Morristown(NJ)
+Nashville
+New Orleans
+New York
+Oklahoma City
+Olympia
+Philadelphia(PA)
+Phoenix
+Portland(OR)
+Providence(RI)
+Raleigh
+Richmond(VA)
+Sacramento
+Salem(OR)
+Salt Lake City
+San Francisco
+Santa Fe(NM)
+Seattle
+Springfield(IL)
+St Louis
+St Paul
+Tallahassee
+Topeka
+Trenton(NJ)
+Washington D. C.

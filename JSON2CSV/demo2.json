@@ -1,0 +1,38 @@
+[
+  {
+    "website": "https://www.airbnb.com/rooms/5694880?locale=en",
+    "city": "La Habana",
+    "bathroom": "1 private bath",
+    "hostcountry": " Cuba",
+    "guest": "2 guests",
+    "country": "Cuba",
+    "review": "159 Reviews",
+    "hostname": "Hosted by Yosvany",
+    "hometype": "Private room in casa particular (cuba)",
+    "bed": "1 bed",
+    "hostcity": "Havana",
+    "state": "La Habana",
+    "isPlus": false,
+    "bedroom": "1 bedroom",
+    "jointime": "Joined in March 2015",
+    "price": "￥559"
+  },
+    {
+    "website": "https://www.airbnb.com/rooms/5694880?locale=en",
+    "city": "rrr",
+    "bathroom": "1 private bath",
+    "hostcountry": " Cuba",
+    "guest": "2 guests",
+    "country": "Cuba",
+    "review": "159 Reviews",
+    "hostname": "Hosted by Yosvany",
+    "hometype": "Private room in casa particular (cuba)",
+    "bed": "1 bed",
+    "hostcity": "Havana",
+    "state": "La Habana",
+    "isPlus": false,
+    "bedroom": "1 bedroom",
+    "jointime": "Joined in March 2015",
+    "price": "￥559"
+  }
+]
